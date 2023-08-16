@@ -1,3 +1,5 @@
+# The source code below is taken from https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html#working-with-data.
+
 import torch 
 from torch import nn
 from torch.utils.data import DataLoader
